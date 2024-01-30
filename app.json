@@ -1,4 +1,11 @@
 {
   "name": "AwesomeShitCopy",
-  "displayName": "AwesomeShitCopy"
+  "displayName": "AwesomeShitCopy",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "df11bf2b-51e4-44e5-a99d-bc3720a1b804"
+      }
+    }
+  }
 }
